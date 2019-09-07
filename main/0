@@ -1,0 +1,21 @@
+main.o: src/main.cpp /home/book/code/LightServer/common/inc/Process.h \
+ /home/book/code/LightServer/common/inc/Config.h \
+ /home/book/code/LightServer/common/inc/Logging.h \
+ /home/book/code/LightServer/common/inc/LogStream.h \
+ /home/book/code/LightServer/common/inc/noncopyable.h \
+ /home/book/code/LightServer/common/inc/Channel.h \
+ /home/book/code/LightServer/common/inc/EventLoop.h \
+ /home/book/code/LightServer/common/inc/TimerQueue.h \
+ /home/book/code/LightServer/common/inc/TimerNode.h \
+ /home/book/code/LightServer/common/inc/TimeStamp.h \
+ /home/book/code/LightServer/common/inc/ClientConnection.h \
+ /home/book/code/LightServer/common/inc/Buffer.h \
+ /home/book/code/LightServer/common/inc/ObjectPool.h \
+ /home/book/code/LightServer/common/inc/MemoryControl.h \
+ /home/book/code/LightServer/common/inc/MemoryManger.h \
+ /home/book/code/LightServer/common/inc/CallBacks.h \
+ /home/book/code/LightServer/common/inc/LightServer.h \
+ /home/book/code/LightServer/common/inc/BufferParser.h \
+ /home/book/code/LightServer/common/inc/MessageFormat.h \
+ /home/book/code/LightServer/common/inc/Logging.h \
+ /home/book/code/LightServer/common/inc/UserInfo.h

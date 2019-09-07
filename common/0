@@ -1,0 +1,2 @@
+CountDownLatch.o: src/CountDownLatch.cpp inc/CountDownLatch.h \
+ inc/noncopyable.h

@@ -1,0 +1,9 @@
+2019-05-04 21:47:12   [Level::Info]   Event Loop created 1 in thread 139861069182784   -- src/EventLoop.cpp:31 ThreadId:139861069182784
+2019-05-04 21:47:12   [Level::Info]   Event Loop created 1 in thread 139861027022592   -- src/EventLoop.cpp:31 ThreadId:139861027022592
+2019-05-04 21:47:12   [Level::Info]   Event Loop created 1 in thread 139861018629888   -- src/EventLoop.cpp:31 ThreadId:139861018629888
+2019-05-04 21:47:12   [Level::Info]   Event Loop created 1 in thread 139861010237184   -- src/EventLoop.cpp:31 ThreadId:139861010237184
+2019-05-04 21:47:12   [Level::Info]   Event Loop created 1 in thread 139861001844480   -- src/EventLoop.cpp:31 ThreadId:139861001844480
+2019-05-04 21:48:06   [Level::Info]   LightServer::newConnection [0] from 192.168.1.101 50210   -- src/LightServer.cpp:77 ThreadId:139861069182784
+2019-05-04 21:48:36   [Level::Info]   write bytes() 12   -- src/ClientConnection.cpp:66 ThreadId:139861027022592
+2019-05-04 21:48:39   [Level::Info]   write bytes() 44   -- src/ClientConnection.cpp:66 ThreadId:139861027022592
+2019-05-04 21:48:48   [Level::Info]   write bytes() 168   -- src/ClientConnection.cpp:66 ThreadId:139861027022592
